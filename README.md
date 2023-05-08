@@ -6,9 +6,7 @@ This project aims to help people curious about sex machines explore their intere
 Please note that this is a _work in progress_ and we have attempted to keep compatibility with the current BOM going forward, but it's not guaranteed.
 
 *Primary design goals* are to make a machine that is Compact, Quiet, Moderate cost, 3D printable (no cutting/machining), High performance, flexible, Easily sourced components, Doesn't look like a giant machine.
-<p align="center">
-<img src="https://user-images.githubusercontent.com/12459679/200219198-df577cbc-8503-47af-bbc8-9cb65de7ea49.jpg" width="750">
-</p>
+
 
 ## Getting Started
 
@@ -20,9 +18,6 @@ There are a few hardware flavours to choose from, we've included user modified v
 
 Join our Discord to be part of the discussion and get help with your build. We have a huge community of makers! https://discord.gg/MmpT9xE
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/12459679/200221900-9ee3337d-2c42-4a85-90ad-25ee921a2b87.png" width="750">
-</p>
 
 ### Software
 
